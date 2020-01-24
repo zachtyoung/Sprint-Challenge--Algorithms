@@ -2,14 +2,14 @@
 
 ## Exercise I
 
-a)
+a) O(n)
 
 
-b)
+b)O(n^3)
 
 
-c)
+c)O(n)
 
 ## Exercise II
-
+Starting on the first floor, drop an egg. Keep moving up floors until it breaks. Wherever floor it breaks is f. O(n)
 
